@@ -1,0 +1,6 @@
+{
+  "name": "Fortunate Baby's Home - Perfumes, Skincare & Baby Care",
+  "description": "Retail of baby items, skin care products, and various perfumes and sprays at Oka Aro New Town Market, Akure, Ondo State, Nigeria. Direct WhatsApp ordering and delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

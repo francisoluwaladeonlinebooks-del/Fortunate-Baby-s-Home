@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E7C4" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#AA7C11" />
+    </linearGradient>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1A1816" />
+      <stop offset="100%" stop-color="#0B0A09" />
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)" rx="80"/>
+  <!-- Decorative border -->
+  <rect x="24" y="24" width="464" height="464" fill="none" stroke="url(#gold)" stroke-width="3" rx="60" opacity="0.6"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.4"/>
+  <!-- Luxury monogram -->
+  <path d="M256 120 L275 180 L335 190 L285 230 L300 290 L256 255 L212 290 L227 230 L177 190 L237 180 Z" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.7"/>
+  <text x="256" y="295" font-family="serif" font-size="120" font-weight="600" fill="url(#gold)" text-anchor="middle" letter-spacing="4">L</text>
+  <text x="256" y="375" font-family="sans-serif" font-size="28" font-weight="300" fill="#E8D5B5" text-anchor="middle" letter-spacing="10">LUXORA</text>
+  <text x="256" y="405" font-family="sans-serif" font-size="14" font-weight="400" fill="#AA7C11" text-anchor="middle" letter-spacing="6">PERFUMES</text>
+</svg>
